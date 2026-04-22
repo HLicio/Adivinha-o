@@ -1,1 +1,1 @@
-Jogo para adinhar o número
+Jogo de adivinhação 
